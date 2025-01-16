@@ -9,4 +9,4 @@
 * [`pdb_numpy`](https://pdb-numpy.readthedocs.io/en/latest/readme.html)
 * [`SST2`](https://sst2.readthedocs.io/en/latest/readme.html)
 
-🔍 For more details about my work and projects, you can visit my website at [https://samuelmurail.github.io/PersonalPage/](https://samuelmurail.github.io/PersonalPage/)
+🔍 For more details about my work and projects, you can visit [my website at](https://samuelmurail.github.io/PersonalPage/).
